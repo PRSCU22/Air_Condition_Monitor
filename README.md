@@ -2,7 +2,7 @@
 空氣品質監測
 這是一個使用 Python 寫成的腳本，旨在自動抓取並圖表化台灣空氣品質數據
 
-功能介紹 自動抓取資料、自動整理統計匯整、自動將圖表資料匯入excel中
+功能介紹 自動抓取資料、統計匯整並將圖表資料匯入excel中
 
 安裝需求 使用這個腳本需要安裝以下軟體： Python 3.x、Requests、pandas、xlwings、metplotlib、numpy
 
